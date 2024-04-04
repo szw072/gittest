@@ -3,3 +3,5 @@
 第二行 change修改
 github修改
 本地修改1.txt
+
+添加function 1
