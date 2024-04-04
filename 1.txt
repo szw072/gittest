@@ -5,3 +5,5 @@ github修改
 本地修改1.txt
 
 添加function 1
+
+github添加function 2
